@@ -1,1 +1,1 @@
-# NLP_Project
+# Text_Summarizer_Project
